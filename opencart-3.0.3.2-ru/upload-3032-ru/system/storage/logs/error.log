@@ -1,0 +1,5 @@
+2020-08-28 12:48:21 - PHP Warning:  mysqli::__construct(): (HY000/1049): Unknown database 'test-oc' in C:\files\MAMP\htdocs\opencart-3.0.3.2-ru\upload-3032-ru\system\library\db\mysqli.php on line 7
+2020-08-28 12:48:21 - PHP Warning:  DB\MySQLi::__construct(): Couldn't fetch mysqli in C:\files\MAMP\htdocs\opencart-3.0.3.2-ru\upload-3032-ru\system\library\db\mysqli.php on line 10
+2020-08-28 12:48:21 - PHP Warning:  DB\MySQLi::__construct(): Couldn't fetch mysqli in C:\files\MAMP\htdocs\opencart-3.0.3.2-ru\upload-3032-ru\system\library\db\mysqli.php on line 10
+2020-08-28 12:48:21 - PHP Notice:  Undefined variable: mysql in C:\files\MAMP\htdocs\opencart-3.0.3.2-ru\upload-3032-ru\install\controller\install\step_3.php on line 280
+2020-08-28 12:48:21 - PHP Notice:  Trying to get property 'connect_error' of non-object in C:\files\MAMP\htdocs\opencart-3.0.3.2-ru\upload-3032-ru\install\controller\install\step_3.php on line 280
